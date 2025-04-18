@@ -1,4 +1,5 @@
 # Ion Exchange Models
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/2rootc/binder_test.git/HEAD)
 
 Preliminary versions of ion exchange models.
 
